@@ -1,0 +1,11 @@
+C:\Users\shavo\source\repos\Compare_the_triplets_HackerRank\Compare_the_triplets_HackerRank\obj\Debug\netcoreapp3.0\Compare_the_triplets_HackerRank.csprojAssemblyReference.cache
+C:\Users\shavo\source\repos\Compare_the_triplets_HackerRank\Compare_the_triplets_HackerRank\obj\Debug\netcoreapp3.0\Compare_the_triplets_HackerRank.AssemblyInfoInputs.cache
+C:\Users\shavo\source\repos\Compare_the_triplets_HackerRank\Compare_the_triplets_HackerRank\obj\Debug\netcoreapp3.0\Compare_the_triplets_HackerRank.AssemblyInfo.cs
+C:\Users\shavo\source\repos\Compare_the_triplets_HackerRank\Compare_the_triplets_HackerRank\bin\Debug\netcoreapp3.0\Compare_the_triplets_HackerRank.exe
+C:\Users\shavo\source\repos\Compare_the_triplets_HackerRank\Compare_the_triplets_HackerRank\bin\Debug\netcoreapp3.0\Compare_the_triplets_HackerRank.deps.json
+C:\Users\shavo\source\repos\Compare_the_triplets_HackerRank\Compare_the_triplets_HackerRank\bin\Debug\netcoreapp3.0\Compare_the_triplets_HackerRank.runtimeconfig.json
+C:\Users\shavo\source\repos\Compare_the_triplets_HackerRank\Compare_the_triplets_HackerRank\bin\Debug\netcoreapp3.0\Compare_the_triplets_HackerRank.runtimeconfig.dev.json
+C:\Users\shavo\source\repos\Compare_the_triplets_HackerRank\Compare_the_triplets_HackerRank\bin\Debug\netcoreapp3.0\Compare_the_triplets_HackerRank.dll
+C:\Users\shavo\source\repos\Compare_the_triplets_HackerRank\Compare_the_triplets_HackerRank\bin\Debug\netcoreapp3.0\Compare_the_triplets_HackerRank.pdb
+C:\Users\shavo\source\repos\Compare_the_triplets_HackerRank\Compare_the_triplets_HackerRank\obj\Debug\netcoreapp3.0\Compare_the_triplets_HackerRank.dll
+C:\Users\shavo\source\repos\Compare_the_triplets_HackerRank\Compare_the_triplets_HackerRank\obj\Debug\netcoreapp3.0\Compare_the_triplets_HackerRank.pdb
