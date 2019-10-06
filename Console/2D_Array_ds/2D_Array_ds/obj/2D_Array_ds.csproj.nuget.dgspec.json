@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\shavo\\source\\repos\\2D_Array_ds\\2D_Array_ds\\2D_Array_ds.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\shavo\\source\\repos\\2D_Array_ds\\2D_Array_ds\\2D_Array_ds.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\shavo\\source\\repos\\2D_Array_ds\\2D_Array_ds\\2D_Array_ds.csproj",
+        "projectName": "2D_Array_ds",
+        "projectPath": "C:\\Users\\shavo\\source\\repos\\2D_Array_ds\\2D_Array_ds\\2D_Array_ds.csproj",
+        "packagesPath": "C:\\Users\\shavo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\shavo\\source\\repos\\2D_Array_ds\\2D_Array_ds\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\shavo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

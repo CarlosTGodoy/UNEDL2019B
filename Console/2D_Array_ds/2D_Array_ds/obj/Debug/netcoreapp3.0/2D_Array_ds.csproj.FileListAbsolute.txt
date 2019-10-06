@@ -1,0 +1,11 @@
+C:\Users\shavo\source\repos\2D_Array_ds\2D_Array_ds\obj\Debug\netcoreapp3.0\2D_Array_ds.csprojAssemblyReference.cache
+C:\Users\shavo\source\repos\2D_Array_ds\2D_Array_ds\obj\Debug\netcoreapp3.0\2D_Array_ds.AssemblyInfoInputs.cache
+C:\Users\shavo\source\repos\2D_Array_ds\2D_Array_ds\obj\Debug\netcoreapp3.0\2D_Array_ds.AssemblyInfo.cs
+C:\Users\shavo\source\repos\2D_Array_ds\2D_Array_ds\bin\Debug\netcoreapp3.0\2D_Array_ds.exe
+C:\Users\shavo\source\repos\2D_Array_ds\2D_Array_ds\bin\Debug\netcoreapp3.0\2D_Array_ds.deps.json
+C:\Users\shavo\source\repos\2D_Array_ds\2D_Array_ds\bin\Debug\netcoreapp3.0\2D_Array_ds.runtimeconfig.json
+C:\Users\shavo\source\repos\2D_Array_ds\2D_Array_ds\bin\Debug\netcoreapp3.0\2D_Array_ds.runtimeconfig.dev.json
+C:\Users\shavo\source\repos\2D_Array_ds\2D_Array_ds\bin\Debug\netcoreapp3.0\2D_Array_ds.dll
+C:\Users\shavo\source\repos\2D_Array_ds\2D_Array_ds\bin\Debug\netcoreapp3.0\2D_Array_ds.pdb
+C:\Users\shavo\source\repos\2D_Array_ds\2D_Array_ds\obj\Debug\netcoreapp3.0\2D_Array_ds.dll
+C:\Users\shavo\source\repos\2D_Array_ds\2D_Array_ds\obj\Debug\netcoreapp3.0\2D_Array_ds.pdb
