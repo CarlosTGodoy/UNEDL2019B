@@ -21,7 +21,27 @@ namespace Compare_the_triplets_HackerRank
         // Complete the compareTriplets function below.
         static List<int> CompareTriplets(List<int> a, List<int> b)
         {
-            jgjgtu
+            List<int> resultados = new List<int>();
+            int alice = 0;
+            int bob = 0;
+
+            for (int i = 0; i < a.Count; i++)
+            {
+                if (a[i] > b[i])
+                {
+                    alice++;
+                }
+                else if (a[i] < b[i])
+                {
+                    bob++;
+                }
+
+            }
+
+            resultados.Add(alice);
+            resultados.Add(bob);
+
+            return resultados;
 
         }
 
