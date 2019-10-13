@@ -1,0 +1,11 @@
+C:\Users\shavo\source\repos\UNEDL2019_Jagged_Arrays\UNEDL2019_Jagged_Arrays\obj\Debug\netcoreapp3.0\UNEDL2019_Jagged_Arrays.csprojAssemblyReference.cache
+C:\Users\shavo\source\repos\UNEDL2019_Jagged_Arrays\UNEDL2019_Jagged_Arrays\obj\Debug\netcoreapp3.0\UNEDL2019_Jagged_Arrays.AssemblyInfoInputs.cache
+C:\Users\shavo\source\repos\UNEDL2019_Jagged_Arrays\UNEDL2019_Jagged_Arrays\obj\Debug\netcoreapp3.0\UNEDL2019_Jagged_Arrays.AssemblyInfo.cs
+C:\Users\shavo\source\repos\UNEDL2019_Jagged_Arrays\UNEDL2019_Jagged_Arrays\bin\Debug\netcoreapp3.0\UNEDL2019_Jagged_Arrays.exe
+C:\Users\shavo\source\repos\UNEDL2019_Jagged_Arrays\UNEDL2019_Jagged_Arrays\bin\Debug\netcoreapp3.0\UNEDL2019_Jagged_Arrays.deps.json
+C:\Users\shavo\source\repos\UNEDL2019_Jagged_Arrays\UNEDL2019_Jagged_Arrays\bin\Debug\netcoreapp3.0\UNEDL2019_Jagged_Arrays.runtimeconfig.json
+C:\Users\shavo\source\repos\UNEDL2019_Jagged_Arrays\UNEDL2019_Jagged_Arrays\bin\Debug\netcoreapp3.0\UNEDL2019_Jagged_Arrays.runtimeconfig.dev.json
+C:\Users\shavo\source\repos\UNEDL2019_Jagged_Arrays\UNEDL2019_Jagged_Arrays\bin\Debug\netcoreapp3.0\UNEDL2019_Jagged_Arrays.dll
+C:\Users\shavo\source\repos\UNEDL2019_Jagged_Arrays\UNEDL2019_Jagged_Arrays\bin\Debug\netcoreapp3.0\UNEDL2019_Jagged_Arrays.pdb
+C:\Users\shavo\source\repos\UNEDL2019_Jagged_Arrays\UNEDL2019_Jagged_Arrays\obj\Debug\netcoreapp3.0\UNEDL2019_Jagged_Arrays.dll
+C:\Users\shavo\source\repos\UNEDL2019_Jagged_Arrays\UNEDL2019_Jagged_Arrays\obj\Debug\netcoreapp3.0\UNEDL2019_Jagged_Arrays.pdb

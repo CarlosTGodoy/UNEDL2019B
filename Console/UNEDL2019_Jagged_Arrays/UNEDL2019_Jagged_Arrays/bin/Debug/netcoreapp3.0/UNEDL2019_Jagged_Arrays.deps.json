@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "UNEDL2019_Jagged_Arrays/1.0.0": {
+        "runtime": {
+          "UNEDL2019_Jagged_Arrays.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UNEDL2019_Jagged_Arrays/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
