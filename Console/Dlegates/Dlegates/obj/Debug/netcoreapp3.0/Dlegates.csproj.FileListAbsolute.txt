@@ -1,0 +1,11 @@
+C:\Users\shavo\source\repos\Dlegates\Dlegates\bin\Debug\netcoreapp3.0\Dlegates.exe
+C:\Users\shavo\source\repos\Dlegates\Dlegates\bin\Debug\netcoreapp3.0\Dlegates.deps.json
+C:\Users\shavo\source\repos\Dlegates\Dlegates\bin\Debug\netcoreapp3.0\Dlegates.runtimeconfig.json
+C:\Users\shavo\source\repos\Dlegates\Dlegates\bin\Debug\netcoreapp3.0\Dlegates.runtimeconfig.dev.json
+C:\Users\shavo\source\repos\Dlegates\Dlegates\bin\Debug\netcoreapp3.0\Dlegates.dll
+C:\Users\shavo\source\repos\Dlegates\Dlegates\bin\Debug\netcoreapp3.0\Dlegates.pdb
+C:\Users\shavo\source\repos\Dlegates\Dlegates\obj\Debug\netcoreapp3.0\Dlegates.csprojAssemblyReference.cache
+C:\Users\shavo\source\repos\Dlegates\Dlegates\obj\Debug\netcoreapp3.0\Dlegates.AssemblyInfoInputs.cache
+C:\Users\shavo\source\repos\Dlegates\Dlegates\obj\Debug\netcoreapp3.0\Dlegates.AssemblyInfo.cs
+C:\Users\shavo\source\repos\Dlegates\Dlegates\obj\Debug\netcoreapp3.0\Dlegates.dll
+C:\Users\shavo\source\repos\Dlegates\Dlegates\obj\Debug\netcoreapp3.0\Dlegates.pdb
