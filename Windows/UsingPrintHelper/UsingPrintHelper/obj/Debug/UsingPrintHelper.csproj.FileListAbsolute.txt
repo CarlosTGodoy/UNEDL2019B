@@ -10,3 +10,5 @@ C:\Users\shavo\UNEDL2019B\Windows\UsingPrintHelper\UsingPrintHelper\obj\Debug\Us
 C:\Users\shavo\UNEDL2019B\Windows\UsingPrintHelper\UsingPrintHelper\obj\Debug\UsingPrintHelper.About.resources
 C:\Users\shavo\UNEDL2019B\Windows\UsingPrintHelper\UsingPrintHelper\obj\Debug\UsingPrintHelper.AboutBox1.resources
 C:\Users\shavo\UNEDL2019B\Windows\UsingPrintHelper\UsingPrintHelper\obj\Debug\UsingPrintHelper.PrintHelper.resources
+C:\Users\shavo\UNEDL2019B\Windows\UsingPrintHelper\UsingPrintHelper\obj\Debug\UsingPrintHelper.previewCredencial.resources
+C:\Users\shavo\UNEDL2019B\Windows\UsingPrintHelper\UsingPrintHelper\obj\Debug\UsingPrintHelper.Registro.resources
