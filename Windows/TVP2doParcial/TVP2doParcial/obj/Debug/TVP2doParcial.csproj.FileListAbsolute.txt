@@ -1,0 +1,10 @@
+C:\Users\shavo\source\repos\TVP2doParcial\TVP2doParcial\bin\Debug\TVP2doParcial.exe.config
+C:\Users\shavo\source\repos\TVP2doParcial\TVP2doParcial\bin\Debug\TVP2doParcial.exe
+C:\Users\shavo\source\repos\TVP2doParcial\TVP2doParcial\bin\Debug\TVP2doParcial.pdb
+C:\Users\shavo\source\repos\TVP2doParcial\TVP2doParcial\obj\Debug\TVP2doParcial.csprojAssemblyReference.cache
+C:\Users\shavo\source\repos\TVP2doParcial\TVP2doParcial\obj\Debug\TVP2doParcial.Form1.resources
+C:\Users\shavo\source\repos\TVP2doParcial\TVP2doParcial\obj\Debug\TVP2doParcial.Properties.Resources.resources
+C:\Users\shavo\source\repos\TVP2doParcial\TVP2doParcial\obj\Debug\TVP2doParcial.Result.resources
+C:\Users\shavo\source\repos\TVP2doParcial\TVP2doParcial\obj\Debug\TVP2doParcial.csproj.GenerateResource.cache
+C:\Users\shavo\source\repos\TVP2doParcial\TVP2doParcial\obj\Debug\TVP2doParcial.exe
+C:\Users\shavo\source\repos\TVP2doParcial\TVP2doParcial\obj\Debug\TVP2doParcial.pdb
