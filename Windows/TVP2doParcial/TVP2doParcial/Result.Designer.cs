@@ -31,6 +31,7 @@
             this.lblPT = new System.Windows.Forms.Label();
             this.lblPR = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
+            this.lbPR = new System.Windows.Forms.ListBox();
             this.SuspendLayout();
             // 
             // lblPT
@@ -59,11 +60,20 @@
             this.label3.Size = new System.Drawing.Size(0, 13);
             this.label3.TabIndex = 2;
             // 
+            // lbPR
+            // 
+            this.lbPR.FormattingEnabled = true;
+            this.lbPR.Location = new System.Drawing.Point(57, 234);
+            this.lbPR.Name = "lbPR";
+            this.lbPR.Size = new System.Drawing.Size(308, 95);
+            this.lbPR.TabIndex = 3;
+            // 
             // Result
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(446, 411);
+            this.Controls.Add(this.lbPR);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.lblPR);
             this.Controls.Add(this.lblPT);
@@ -80,5 +90,6 @@
         private System.Windows.Forms.Label lblPT;
         private System.Windows.Forms.Label lblPR;
         private System.Windows.Forms.Label label3;
+        private System.Windows.Forms.ListBox lbPR;
     }
 }
