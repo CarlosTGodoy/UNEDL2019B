@@ -1,0 +1,2 @@
+212-532,true,Casa,20 000,Aquiles,23,Donde roba,Chiapas,50,1,2,1,True,True,True,True,1,True,0,C:\img\CV1.jpg
+013-895,false,Casa,12 000,Zacatecas,73,Atemajac,Quintana Roo,60,3,2,0,True,True,True,True,2,True,0,C:\img\CV2.jpg

@@ -1,0 +1,2 @@
+156-987,true,Casa,56 000,Bravo,73,El valle,Colima,60,3,2,0,True,True,True,True,2,True,0,C:\img\CR1.jpg
+632-985,false,Casa,56 000,Bravo,73,El valle,Colima,60,3,2,0,True,True,True,True,2,True,0,C:\img\CR2.jpg

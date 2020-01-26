@@ -1,0 +1,2 @@
+255-231,true,Departamento,2 000 000,3,23A,Aquiles,3,Atemajac,Baja California Sur,23,2,2,0,True,True,True,True,2,True,0,C:\img\DV2.jpg
+500-617,false,Departamento,DFBH,TJN,HN,DFB,NJ,HTF,FDNH,DFRBH,DHB,HB,HJNTG,True,True,True,True,HJN,True,0,C:\img\DV1.jpg
