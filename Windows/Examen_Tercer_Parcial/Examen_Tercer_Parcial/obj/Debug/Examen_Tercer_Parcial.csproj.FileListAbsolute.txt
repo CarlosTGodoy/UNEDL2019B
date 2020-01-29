@@ -1,0 +1,9 @@
+C:\Users\shavo\source\repos\Examen_Tercer_Parcial\Examen_Tercer_Parcial\bin\Debug\Examen_Tercer_Parcial.exe.config
+C:\Users\shavo\source\repos\Examen_Tercer_Parcial\Examen_Tercer_Parcial\bin\Debug\Examen_Tercer_Parcial.exe
+C:\Users\shavo\source\repos\Examen_Tercer_Parcial\Examen_Tercer_Parcial\bin\Debug\Examen_Tercer_Parcial.pdb
+C:\Users\shavo\source\repos\Examen_Tercer_Parcial\Examen_Tercer_Parcial\obj\Debug\Examen_Tercer_Parcial.Form1.resources
+C:\Users\shavo\source\repos\Examen_Tercer_Parcial\Examen_Tercer_Parcial\obj\Debug\Examen_Tercer_Parcial.Properties.Resources.resources
+C:\Users\shavo\source\repos\Examen_Tercer_Parcial\Examen_Tercer_Parcial\obj\Debug\Examen_Tercer_Parcial.csproj.GenerateResource.cache
+C:\Users\shavo\source\repos\Examen_Tercer_Parcial\Examen_Tercer_Parcial\obj\Debug\Examen_Tercer_Parcial.exe
+C:\Users\shavo\source\repos\Examen_Tercer_Parcial\Examen_Tercer_Parcial\obj\Debug\Examen_Tercer_Parcial.pdb
+C:\Users\shavo\source\repos\Examen_Tercer_Parcial\Examen_Tercer_Parcial\obj\Debug\Examen_Tercer_Parcial.csprojAssemblyReference.cache

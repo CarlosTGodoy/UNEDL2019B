@@ -1,0 +1,1 @@
+La carpeta ExamenFinal contiene el txt del guardado, ubicar el disco C
