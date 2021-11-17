@@ -1,1 +1,1 @@
-# Sistema de Bienes Raíces con C++ y lectura de archivos.
+# Sistema de Bienes Raíces con C# y lectura de archivos.
